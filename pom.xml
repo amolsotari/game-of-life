@@ -509,4 +509,5 @@
 		<name>Snapshots</name>
 		<url>http://13.234.118.226:8081/nexus/content/repositories/snapshots/</url>
 	</snapshotRepository>
+    </distributionManagement>
 </project>
